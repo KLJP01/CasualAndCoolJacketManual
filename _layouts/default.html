@@ -6,15 +6,13 @@
 </head>
 <body>
   <nav>
-    <ul>
-      <li class="active"><a href="index.html">マテリアル説明</a></li>
-      <li><a href="getting-started.html">商品説明/導入方法</a></li>
-      <li><a href="">更新履歴</a></li>
-    </ul>
+    {% include doc_nav.html %}
   </nav>
+  <main>
     <h2>マテリアルフォルダの構造と簡単な説明</h2>
     <div id="content">
         {{ content }}
     </div>
+  </main>
 </body>
 </html>

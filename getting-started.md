@@ -3,13 +3,13 @@ layout: default
 ---
 
 
-#ShaderとModularAvaterに関して
+# ShaderとModularAvaterに関して
 * 現在**lilToon**に対応している衣装は**サバンナストリート レイシャークコーデ**のみです.
 * 他のアバター対応衣装は**順次,ArktoonShaderからlilToonに変更&ModularAvater対応**していきます.
   
 ---
 
-#注意
+# 注意
 * ReadMe,Shader等は"OtherData.zip"に含まれています*
 
 * マテリアルエラーになる場合は"OtherData.zip"に同梱しているシェーダーをインポートして下さい *
@@ -29,8 +29,9 @@ layout: default
 ### サバンナストリート レイシャークコーデ ( イリオ1.1 )( SVST02 )
 CasualAndCoolJacket_SVST02_X.x.unitypackageに入っています
 - [ サバンナストリート レイシャークコーデ ]( https://avatarchan.booth.pm/items/3964062 )
+
 ## ArktoonShader
-## 白星アバター
+### 白星アバター
 CasualAndCoolJacket_CustaChan_X.x.unitypackageに入っています
 - [ レムリカ ]( https://hakusei-avatar.booth.pm/items/1323709 )
 - [ ロゼリッタ ]( https://hakusei-avatar.booth.pm/items/3186170 )
@@ -39,7 +40,8 @@ CasualAndCoolJacket_CustaChan_X.x.unitypackageに入っています
 - [ えるるちゃん ]( https://hakusei-avatar.booth.pm/items/2486319 )
 - [ かすたちゃん ]( https://hakusei-avatar.booth.pm/items/1795010 )
 - [ 明明（ミンミン） ]( https://hakusei-avatar.booth.pm/items/3695081 )
-## こまどアバター
+
+### こまどアバター
 CasualAndCoolJacket_Rusk_X.x.unitypackageに入っています
 - あまなつ (販売終了アバター)
 - ラムネ Re (販売終了アバター)
@@ -47,10 +49,12 @@ CasualAndCoolJacket_Rusk_X.x.unitypackageに入っています
 - [ ミルク Re ]( https://komado.booth.pm/items/2953391 )
 - [ ラスク ]( https://booth.pm/ja/items/2559783 )
 - [ カリン ]( https://komado.booth.pm/items/3470989 )
-## ミーシェ
+
+### ミーシェ
 CasualAndCoolJacket_Mishe_X.x.unitypackageに入っています
 - [ ミーシェ ]( https://booth.pm/ja/items/1256087 )
-## サバンナストリート ワイルドキャットコーデ ( イリオ1.0 ) ( SVST01 )
+
+### サバンナストリート ワイルドキャットコーデ ( イリオ1.0 ) ( SVST01 )
 CasualAndCoolJacket_SVST01_X.x.unitypackageに入っています
 - [ サバンナストリート ワイルドキャットコーデ ]( https://avatarchan.booth.pm/items/3188683 )
 
@@ -96,7 +100,7 @@ ModularAvater対応版衣装はModularAvaterをご利用ください.
    後からアバターをインポートする場合,アバターに同梱しているシェーダーが古い可能性があり,ジャケットのシェーダーが正しく表示されなくなることがあります.
    **その場合は,別途同梱しているシェーダーを上書きインポートするか,先にアバターをインポートしておいてください.**
    **シェーダーが正しく反映されない場合は,"OtherData.zip"に含まれるシェーダーをインポートしてください.**
-2. SceneにCustaChanのPrefabと"KL_SHOP > CusualAndCoolJacket > Prefab > CustaChan"内にあるPrefabを,必要であればMaterialフォルダ内のマテリアルを好きな組み合わせで適用してください.
+2. SceneにCustaChanのPrefabと**KL_SHOP > CusualAndCoolJacket > Prefab > CustaChan**内にあるPrefabを,必要であればMaterialフォルダ内のマテリアルを好きな組み合わせで適用してください.
 3. アバターとジャケットで右クリック → Unpack Prefab
 4. CustaChanのRootNode配下にある"Hoodie","HoodleCap"を削除,または非表示にする.BodyもFullBodyのテクスチャに変更.シェイプキーで肩など隠している場合は表示させましょう.
 5. (Auto Dresserを使わない場合) ウェアのボーンをそれぞれ,アバターの同名ボーンの中に移動させる.(指のボーンにはウェイトが乗ってないので入れ子にしなくて大丈夫です)
@@ -136,24 +140,3 @@ ModularAvater対応版衣装はModularAvaterをご利用ください.
 # 規約
 - 再配布,再販不可
 - 改変可
-
-----
-
-# 更新履歴
-- 2021/07/07
-  - BOOTH配布開始
-- 2021/07/15
-  - ミーシェのUV展開の変更
-  - ラスクのFBX差し替え
-  - 配布方法を変更.ファルダ分け
-- 2022/03/09
-  -各モデルに合わせたPrefabを追加
-- 2022/03/16
-  イリオ1.0（サバンナストリート ワイルドキャットコーデ） ( SVST ) 対応ver. 追加
-
-----
-
-何かありましたらBOOTH DMかTwitter@KLj01までお願いします.
-
-また,よろしかったらスクショ等を共有して下さると嬉しいです
-Twitterハッシュタグ #KL_SHOP

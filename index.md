@@ -1,5 +1,6 @@
 ---
 layout: default
+title: サンプル
 ---
 
 - 1. Jacket
