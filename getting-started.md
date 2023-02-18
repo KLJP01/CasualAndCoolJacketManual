@@ -10,11 +10,11 @@ title: 商品の説明と導入方法
 ---
 
 # 注意事項
-* ReadMe,Shader等は"OtherData.zip"に含まれています
-* マテリアルエラーになる場合は"OtherData.zip"に同梱しているシェーダーをインポートして下さい 
-* こちらは衣装のみです.アバターは含まれません. 
+* ReadMe,Shader等は **OtherData.zip** に含まれています
+* マテリアルエラーになる場合は **OtherData** に同梱しているシェーダーをインポートして下さい 
+* こちらは**衣装のみ**です.アバターは含まれません. 
 * 水着は含まれません.
-* 水着等を着せる際は各Shape Keyにて調整して下さい.
+* 水着等を着せる際は**各Shape Keyにて調整**して下さい.
 * 動画の衣装は制作当初のものなので若干異なります.
 
 ---
@@ -81,8 +81,9 @@ ModularAvater対応版衣装はModularAvaterをご利用ください.
 *手順1*
 
   1. **Modular Avatar**の最新版をインストールしていない場合はインストールをして下さい. [Modular Avatar]( https://modular-avatar.nadena.dev/ja/ )
-  2. "**SVST02_05_VRC_Light**"をHierachyにD&D
-  3. KL_SHOP > CasualAndCoolJacket > Prefab > SVST02 内にある"**jacketSet_SVST02_MA**"を"SVST02_05_VRC_Light"に直接D&D
+  2. **OtherData2**内にあ**lilToon**Shaderをインポートしてください. [lilToon]( https://booth.pm/ja/items/3087170 )
+  3. "**SVST02_05_VRC_Light**"をHierachyにD&D
+  4. KL_SHOP > CasualAndCoolJacket > Prefab > SVST02 内にある"**jacketSet_SVST02_MA**"を"SVST02_05_VRC_Light"に直接D&D
 
 完了!
 
