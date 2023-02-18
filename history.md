@@ -26,6 +26,7 @@ title: 規約と更新履歴
 何かありましたら BOOTH DM 📧💭または [Twitter@KLjp01](https://twitter.com/KLjp01) 💬📱までお願いします!
 
 また,よろしかったらスクリーンショットなどを共有していただけると嬉しいです! 📸💖🤗
+
 Twitterハッシュタグ #KL_SHOP 💬🔍💻
 
 [ Github ]( https://github.com/KLJP01/CasualAndCoolJacketManual.github.io) 👀📂🔎
