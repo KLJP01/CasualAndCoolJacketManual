@@ -10,6 +10,8 @@
   </nav>
   <main>
     <h2>{{ page.title }}</h2>
+    {% if page.url == '/' %}        
+    {% endif %}
     <div id="content">
         {{ content }}
     </div>

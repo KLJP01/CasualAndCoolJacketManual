@@ -18,7 +18,7 @@
 
 :shopping_cart: **BOOTH**
 
-https://kljp.booth.pm/
+https://kljp.booth.pm/items/3101790
 
 
 :calendar: **Last Updated**

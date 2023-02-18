@@ -182,3 +182,29 @@ h2::before {
     width: calc(100% - 120px);
 }
 */
+
+/* ------------------------
+◆ ディレクトリ構造
+---------------------------*/
+ul span,
+li span{
+    color: brown;
+    font-size: 0.7em;
+    font-weight: bold;
+}
+
+/* ------------------------
+◆ ディレクトリ構造
+---------------------------*/
+pre.highlight {
+    padding: 1em 1.5em;
+    margin: 2em 0;
+    background-color:#f4f9ff;/*背景色*/
+    border:1px solid #84c1ff;/*枠線*/
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);/*影*/
+}
+code {
+    margin: 0; 
+    padding: 0;
+    color:#000000;/*文字色*/
+}
