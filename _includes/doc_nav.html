@@ -1,5 +1,11 @@
 <ul>
-    <li><a href={{ "/index.html" | relative_url }}>マテリアル説明</a></li>
-    <li><a href={{ "/getting-started.html" | relative_url }}>商品説明/導入方法</a></li>
-    <li><a href={{ "/history.html" | relative_url }}>規約/更新履歴</a></li>
+    <li class="{% if page.url == '/' %}active{% endif %}">
+        <a href="{{ "/index.html" | relative_url }}">マテリアル説明</a>
+    </li>
+    <li class="{% if page.url == '/getting-started.html' %}active{% endif %}">
+        <a href="{{ "/getting-started.html" | relative_url }}">商品の説明/導入方法</a>
+    </li>
+    <li class="{% if page.url == '/history.html' %}active{% endif %}">
+        <a href="{{ "/history.html" | relative_url }}">規約/更新履歴</a>
+    </li>
 </ul>

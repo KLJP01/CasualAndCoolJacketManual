@@ -1,7 +1,8 @@
 ---
 layout: default
-title: サンプル
+title: マテリアルフォルダの構造と簡単な説明
 ---
+
 - Material/lilToon
   - 1. Jacket
     - 1.1 Fur

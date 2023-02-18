@@ -1,7 +1,7 @@
 ---
 layout: default
+title: 商品の説明と導入方法
 ---
-
 
 # ShaderとModularAvaterに関して
 * 現在**lilToon**に対応している衣装は**サバンナストリート レイシャークコーデ**のみです.
@@ -11,15 +11,10 @@ layout: default
 
 # 注意事項
 * ReadMe,Shader等は"OtherData.zip"に含まれています
-
 * マテリアルエラーになる場合は"OtherData.zip"に同梱しているシェーダーをインポートして下さい 
-
 * こちらは衣装のみです.アバターは含まれません. 
-
 * 水着は含まれません.
-
 * 水着等を着せる際は各Shape Keyにて調整して下さい.
-
 * 動画の衣装は制作当初のものなので若干異なります.
 
 ---
@@ -59,12 +54,12 @@ CasualAndCoolJacket_SVST01_X.x.unitypackageに入っています
 - [ サバンナストリート ワイルドキャットコーデ ]( https://avatarchan.booth.pm/items/3188683 )
 
 ---
-
-# 着せ替えツール (ModularAvater対応衣装の場合)
+# 着せ替えツール
+## ModularAvater対応衣装の場合
 ModularAvater対応版衣装はModularAvaterをご利用ください.
 対応したアバター直下にセットアップされたPrefabをD&Dするだけで着せ替え,専用ExpressionMenuの追加が可能になります.
 
-# 着せ替え用おすすめツール (ModularAvater未対応版,ModularAvaterを使用しない場合)
+## ModularAvater未対応版,ModularAvaterを使用しない場合
  - [ Auto Dresser(有料) ]( https://booth.pm/ja/items/1300847 )
 
  - [ 白星アバター向け着せ替え衣装の導入方法（AutoDresser版）] ( https://note.com/yuu0w0/n/nf71d14e03c8d )
