@@ -32,7 +32,7 @@ title: ディレクトリ構造と簡単なマテリアル説明
     ├── Shader/
     │   ├── ...
     │   └── ...
-    └── !ReadMe.txt
+    └── !ReadMe(Webリンク)
 ```
 
 - Material/lilToon
