@@ -3,9 +3,9 @@ layout: default
 title: 商品の説明と導入方法
 ---
 
-# ShaderとModularAvaterに関して
+# ShaderとModularAvatarに関して
 * 現在**lilToon**に対応している衣装は**サバンナストリート レイシャークコーデ**のみです.
-* 他のアバター対応衣装は**順次,ArktoonShaderからlilToonに変更&ModularAvater対応**していきます.
+* 他のアバター対応衣装は**順次,ArktoonShaderからlilToonに変更&ModularAvatar対応**していきます.
   
 ---
 
@@ -20,7 +20,7 @@ title: 商品の説明と導入方法
 ---
 
 # 対応モデル
-## LilToon & ModularAvater
+## lilToon & ModularAvatar
 ### サバンナストリート レイシャークコーデ ( イリオ1.1 )( SVST02 )
 CasualAndCoolJacket_SVST02_X.x.unitypackageに入っています
 - [ サバンナストリート レイシャークコーデ ]( https://avatarchan.booth.pm/items/3964062 )
@@ -55,19 +55,19 @@ CasualAndCoolJacket_SVST01_X.x.unitypackageに入っています
 
 ---
 # 着せ替えツール
-## ModularAvater対応衣装の場合
-ModularAvater対応版衣装はModularAvaterをご利用ください.
+## ModularAvatar対応衣装の場合
+ModularAvatar対応版衣装はModularAvatarをご利用ください.
 対応したアバター直下にセットアップされたPrefabをD&Dするだけで着せ替え,専用ExpressionMenuの追加が可能になります.
 
-## ModularAvater未対応版,ModularAvaterを使用しない場合
+## ModularAvatar未対応版,ModularAvatarを使用しない場合
  - [ Auto Dresser(有料) ]( https://booth.pm/ja/items/1300847 )
 
- - [ 白星アバター向け着せ替え衣装の導入方法（AutoDresser版）] ( https://note.com/yuu0w0/n/nf71d14e03c8d )
+ - [ 白星アバター向け着せ替え衣装の導入方法（AutoDresser版）]( https://note.com/yuu0w0/n/nf71d14e03c8d )
 
 ---
 
 # 組み合わせにお勧めの衣装
- - [【白星アバター向け着せ替え衣装】水着／ビキニ（VRChat用）] ( https://booth.pm/ja/items/1733108 )
+ - [【白星アバター向け着せ替え衣装】水着／ビキニ（VRChat用）]( https://booth.pm/ja/items/1733108 )
   **かすたちゃんの場合はY Positionを-0.0323にする**
 
  - [ 【こまどアバター対応】みずぎコレクション ]( https://sugary-boutique.booth.pm/items/3057397 )
@@ -77,17 +77,17 @@ ModularAvater対応版衣装はModularAvaterをご利用ください.
 ---
 
 # 導入方法
-## 導入方法 (ModularAvater対応衣装の場合)
+## 導入方法 (ModularAvatar対応衣装の場合)
 *手順1*
 
   1. **Modular Avatar**の最新版をインストールしていない場合はインストールをして下さい. [Modular Avatar]( https://modular-avatar.nadena.dev/ja/ )
-  2. **OtherData2**内にあ**lilToon**Shaderをインポートしてください. [lilToon]( https://booth.pm/ja/items/3087170 )
+  2. **OtherData2**内に**lilToon**Shaderをインポートしてください. [lilToon]( https://booth.pm/ja/items/3087170 )
   3. "**SVST02_05_VRC_Light**"をHierachyにD&D
   4. KL_SHOP > CasualAndCoolJacket > Prefab > SVST02 内にある"**jacketSet_SVST02_MA**"を"SVST02_05_VRC_Light"に直接D&D
 
 完了!
 
-## 導入方法(ModularAvater未対応版,ModularAvaterを使用しない場合)
+## 導入方法(ModularAvatar未対応版,ModularAvatarを使用しない場合)
 *CustaChanを例にして記述* 
 **VRCSDK2 Or VRCSDK3(Avatar)をインポートしている必要があります**
 [VRCSDK] ( https://vrchat.com/home/download )
@@ -106,7 +106,7 @@ ModularAvater対応版衣装はModularAvaterをご利用ください.
 
 # 色の改変について
  - マテリアル内の色味のある項目を弄るとある程度変わります.
-  - 色の影響が強い項目は以下の順です.
+  - Arktoonに関して,色の影響が強い項目は以下の順です.
    1. Main Texture(色と画像)とその下のChColor1～3(色のみ),Shadowの1st/2nd shade(色と画像),Is Double Sided(裏面の項目です.HueShiftに関しては一部のワールドで違う色になってしまうので0にしてあります)
    2. RimLight
    3. Parallaxd Emission(ビニール素材の部分なので,Cyberマテリアルで特に目立ちます)
@@ -116,9 +116,12 @@ ModularAvater対応版衣装はModularAvaterをご利用ください.
 
 # 各リンク
 
+## ツール
+ - [Modular Avatar]( https://modular-avatar.nadena.dev/ja/ )
 ## シェーダー
  - [ Arktoon-Shaders ]( https://booth.pm/ja/items/1027997 )
  - [ 3チャンネル式ArktoonアドオンK2Ex_3CH ]( https://kuukuukon.booth.pm/items/1582115 )
+ - [lilToon]( https://booth.pm/ja/items/3087170 )
 
 ## マスク画像・MatCap等
  - [ Arktoon-Shaders 付属素材・PoiyomiToonShader 付属素材 ]( https://github.com/poiyomi/PoiyomiToonShader )

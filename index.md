@@ -6,27 +6,33 @@ title: ディレクトリ構造と簡単なマテリアル説明
 ```
 .
 └── CasualAndCoolJacket/
-    ├── _MA/
-    │   └── 各アバター用フォルダ/
+    ├── CasualAndCoolJacket_X.x/
+    │   └── CasualAndCoolJacket_対応アバター名_X.x.unitypackage/
+    │       ├── _MA/
+    │       │   └── 各アバター用フォルダ/
+    │       │       ├── Animations/
+    │       │       │   └── ...
+    │       │       ├── Contoller/
+    │       │       │   └── ...
+    │       │       └── ExMenu/
+    │       │           └── ...
     │       ├── Animations/
-    │       │   └── ...
-    │       ├── Contoller/
-    │       │   └── ...
-    │       └── ExMenu/
-    │           └── ...
-    ├── Animations/
-    │   └── Outfit Anims Type1
-    ├── FBX/
-    │   └── 各アバター用衣装.fbx
-    ├── Material/
-    │   ├── lilToon/
-    │   │   └── ...
-    │   └── Texture/
-    │       └── ...
-    └── Prefab/
-        └── 各アバター用フォルダ/
-            ├── 衣装.pre
-            └── 衣装_MA(ModularAvater用セットアップ済み).pre
+    │       │   └── Outfit Anims Type1
+    │       ├── FBX/
+    │       │   └── 各アバター用衣装.fbx
+    │       ├── Material/
+    │       │   ├── lilToon/
+    │       │   │   └── ...
+    │       │   └── Texture/
+    │       │       └── ...
+    │       └── Prefab/
+    │           └── 各アバター用フォルダ/
+    │               ├── 衣装.pre
+    │               └── 衣装_MA(ModularAvater用セットアップ済み).pre
+    ├── Shader/
+    │   ├── ...
+    │   └── ...
+    └── !ReadMe.txt
 ```
 
 - Material/lilToon
