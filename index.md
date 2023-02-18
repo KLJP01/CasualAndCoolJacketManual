@@ -19,7 +19,7 @@ title: ディレクトリ構造と簡単なマテリアル説明
     │       ├── Animations/
     │       │   └── Outfit Anims Type1
     │       ├── FBX/
-    │       │   └── 各アバター用衣装.fbx
+    │       │   └── 各アバター用衣装.fbx(ジャケット2パターン,マフラー)
     │       ├── Material/
     │       │   ├── lilToon/
     │       │   │   └── ...

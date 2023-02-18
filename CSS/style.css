@@ -114,10 +114,6 @@ h2::before {
     background-color: #e0e0e0;
 }
 
-#content ul li span {
-    margin-right: 1em;
-}
-
 #content ul li a {
     color: #1e88e5;
     text-decoration: none;
@@ -132,7 +128,14 @@ h2::before {
     margin: 10px 0;
     font-size: 14px;
     line-height: 1.5;
-} */
+} 
+*/
+
+#content ul li span {
+    margin-right: 1em;
+    color: brown;
+    font-size: 0.8em;
+}
 
 /* ------------------------
 ◆ 更新履歴
@@ -189,12 +192,12 @@ h2::before {
 pre.highlight {
     padding: 1em 1.5em;
     margin: 2em 0;
-    background-color:#f4f9ff;/*背景色*/
-    border:1px solid #84c1ff;/*枠線*/
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);/*影*/
+    background-color:#f4f9ff;
+    border:1px solid #84c1ff;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
 }
 pre {
     margin: 0; 
     padding: 0;
-    color:#000000;/*文字色*/
+    color:#000000;
 }
