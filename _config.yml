@@ -3,4 +3,3 @@ server: true
 markdown: kramdown
 name: "MateriaslManual"
 url: "https://MaterialManual.github.io"
-theme: Slate
