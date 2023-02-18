@@ -9,18 +9,18 @@ layout: default
   
 ---
 
-# 注意
-* ReadMe,Shader等は"OtherData.zip"に含まれています*
+# 注意事項
+* ReadMe,Shader等は"OtherData.zip"に含まれています
 
-* マテリアルエラーになる場合は"OtherData.zip"に同梱しているシェーダーをインポートして下さい *
+* マテリアルエラーになる場合は"OtherData.zip"に同梱しているシェーダーをインポートして下さい 
 
-* こちらは衣装のみです.アバターは含まれません. *
+* こちらは衣装のみです.アバターは含まれません. 
 
-* 水着は含まれません. *
+* 水着は含まれません.
 
-* 水着等を着せる際は各Shape Keyにて調整して下さい. *
+* 水着等を着せる際は各Shape Keyにて調整して下さい.
 
-* 動画の衣装は制作当初のものなので若干異なります. *
+* 動画の衣装は制作当初のものなので若干異なります.
 
 ---
 
@@ -73,7 +73,7 @@ ModularAvater対応版衣装はModularAvaterをご利用ください.
 
 # 組み合わせにお勧めの衣装
  - [【白星アバター向け着せ替え衣装】水着／ビキニ（VRChat用）] ( https://booth.pm/ja/items/1733108 )
-* かすたちゃんの場合はY Positionを-0.0323にする *
+  **かすたちゃんの場合はY Positionを-0.0323にする**
 
  - [ 【こまどアバター対応】みずぎコレクション ]( https://sugary-boutique.booth.pm/items/3057397 )
 
@@ -101,8 +101,8 @@ ModularAvater対応版衣装はModularAvaterをご利用ください.
    **その場合は,別途同梱しているシェーダーを上書きインポートするか,先にアバターをインポートしておいてください.**
    **シェーダーが正しく反映されない場合は,"OtherData.zip"に含まれるシェーダーをインポートしてください.**
 2. SceneにCustaChanのPrefabと**KL_SHOP > CusualAndCoolJacket > Prefab > CustaChan**内にあるPrefabを,必要であればMaterialフォルダ内のマテリアルを好きな組み合わせで適用してください.
-3. アバターとジャケットで右クリック → Unpack Prefab
-4. CustaChanのRootNode配下にある"Hoodie","HoodleCap"を削除,または非表示にする.BodyもFullBodyのテクスチャに変更.シェイプキーで肩など隠している場合は表示させましょう.
+3. アバターとジャケットで右クリック → **Unpack Prefab**
+4. CustaChanのRootNode配下にある **"Hoodie","HoodleCap"を削除,または非表示** にする.BodyもFullBodyのテクスチャに変更.シェイプキーで肩など隠している場合は表示させましょう.
 5. (Auto Dresserを使わない場合) ウェアのボーンをそれぞれ,アバターの同名ボーンの中に移動させる.(指のボーンにはウェイトが乗ってないので入れ子にしなくて大丈夫です)
    (Auto Dresserを使う場合) **予め"Auto Dresser"をインポートしておいてください.** UnpackしたウェアのInspectorにて"Auto Dresser"をAdd Componentから追加します."Auto Dresser"の"Cloth HipBone"にUnpackしたウェア,"Body Object"にCustaChanをDDし,"Dressing On"で完了です.
 
@@ -134,9 +134,3 @@ ModularAvater対応版衣装はModularAvaterをご利用ください.
 
 ### 毛糸柄
  - [ Fablic_Knitted_002(CC0) ]( https://3dtextures.me/2020/03/17/fabric-knitted-002/ )
-
----
-
-# 規約
-- 再配布,再販不可
-- 改変可
