@@ -86,6 +86,8 @@ ModularAvatar対応版衣装はModularAvatarをご利用ください.
   3. "**SVST02_05_VRC_Light**"をHierachyにD&D
   4. KL_SHOP > CasualAndCoolJacket > Prefab > SVST02 内にある"**jacketSet_SVST02_MA**"を"SVST02_05_VRC_Light"に直接D&D
 
+- Scene等で確認すると上手く着せられているのか分かりづらいかもしれませんが,GestureManagerを利用すると確認することができます
+
 完了!
 
 ## 導入方法(ModularAvatar未対応版,ModularAvatarを使用しない場合)
