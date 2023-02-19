@@ -46,7 +46,7 @@ title: 商品の説明と導入方法
   
 ---
 
-# 注意事項
+# :warning:注意事項
 * [ VRChat Creator Companion (VCC) ](https://vcc.docs.vrchat.com/),[Modular Avatar]( https://modular-avatar.nadena.dev/ja/ ) を利用してのセットアップを想定して販売しています. (2023/02/19 現在)
 * ReadMe,Shader等は **OtherData.zip(ArktoonShader用)** ,**OtherData_lilToon.zip(lilToon用)** に含まれています
 * マテリアルエラーになる場合は **OtherData** に同梱しているシェーダーをインポートして下さい 
