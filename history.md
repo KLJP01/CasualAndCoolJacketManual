@@ -23,6 +23,20 @@ title: 規約と更新履歴
 - 2023/02/19
   - サバンナストリート レイシャークコーデ ( イリオ1.1 )( SVST02 ) 対応ver.　追加
 
+
+----
+
+# 制作者
+
+- [ KL ]( https://twitter.com/KLjp1A)
+  - Clothing modeling
+  - Setup of ModularAvatar and ExpressionMenu
+
+- [ Ricoh. ]( https://twitter.com/richromean )
+  - Material creation
+  - Rask-chan manager
+  -  [ BOOTH ]( https://richromean.booth.pm/ )
+
 ----
 
 何かありましたら BOOTH DM 📧💭または [Twitter@KLjp01](https://twitter.com/KLjp01) 💬📱までお願いします!
