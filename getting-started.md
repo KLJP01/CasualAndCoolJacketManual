@@ -10,7 +10,8 @@ title: 商品の説明と導入方法
 ---
 
 # 注意事項
-* ReadMe,Shader等は **OtherData.zip** に含まれています
+* [ VRChat Creator Companion (VCC) ](https://vcc.docs.vrchat.com/),[Modular Avatar]( https://modular-avatar.nadena.dev/ja/ ) を利用してのセットアップを想定して販売しています. (2023/02/19 現在)
+* ReadMe,Shader等は **OtherData.zip(ArktoonShader用)** ,**OtherData_lilToon.zip(lilToon用)** に含まれています
 * マテリアルエラーになる場合は **OtherData** に同梱しているシェーダーをインポートして下さい 
 * こちらは**衣装のみ**です.アバターは含まれません. 
 * 水着は含まれません.
@@ -80,8 +81,8 @@ ModularAvatar対応版衣装はModularAvatarをご利用ください.
 ## 導入方法 (ModularAvatar対応衣装の場合)
 *手順1*
 
-  1. **Modular Avatar**の最新版をインストールしていない場合はインストールをして下さい. [Modular Avatar]( https://modular-avatar.nadena.dev/ja/ )
-  2. **OtherData2**内に**lilToon**Shaderをインポートしてください. [lilToon]( https://booth.pm/ja/items/3087170 )
+  1. [Modular Avatar]( https://modular-avatar.nadena.dev/ja/ )の最新版をインストールしていない場合はインストールをして下さい. 
+  2. **OtherData_lilToon**内に[lilToon]( https://booth.pm/ja/items/3087170 )Shaderをインポートしてください. 
   3. "**SVST02_05_VRC_Light**"をHierachyにD&D
   4. KL_SHOP > CasualAndCoolJacket > Prefab > SVST02 内にある"**jacketSet_SVST02_MA**"を"SVST02_05_VRC_Light"に直接D&D
 
@@ -90,9 +91,9 @@ ModularAvatar対応版衣装はModularAvatarをご利用ください.
 ## 導入方法(ModularAvatar未対応版,ModularAvatarを使用しない場合)
 *CustaChanを例にして記述* 
 **VRCSDK2 Or VRCSDK3(Avatar)をインポートしている必要があります**
-[VRCSDK] ( https://vrchat.com/home/download )
+ - [VRCSDK]( https://vrchat.com/home/download )
 
-1. CasualAndCoolJacket_x_x.x.unitypackageをインポート.
+1. **CasualAndCoolJacket_x_x.x.unitypackage**をインポート.
    後からアバターをインポートする場合,アバターに同梱しているシェーダーが古い可能性があり,ジャケットのシェーダーが正しく表示されなくなることがあります.
    **その場合は,別途同梱しているシェーダーを上書きインポートするか,先にアバターをインポートしておいてください.**
    **シェーダーが正しく反映されない場合は,"OtherData.zip"に含まれるシェーダーをインポートしてください.**
@@ -105,8 +106,9 @@ ModularAvatar対応版衣装はModularAvatarをご利用ください.
 ---
 
 # 色の改変について
- - マテリアル内の色味のある項目を弄るとある程度変わります.
-  - Arktoonに関して,色の影響が強い項目は以下の順です.
+   - マテリアル内の色味のある項目を弄るとある程度変わります.
+   - Arktoonに関して,色の影響が強い項目は以下の順です.
+  
    1. Main Texture(色と画像)とその下のChColor1～3(色のみ),Shadowの1st/2nd shade(色と画像),Is Double Sided(裏面の項目です.HueShiftに関しては一部のワールドで違う色になってしまうので0にしてあります)
    2. RimLight
    3. Parallaxd Emission(ビニール素材の部分なので,Cyberマテリアルで特に目立ちます)
@@ -117,6 +119,7 @@ ModularAvatar対応版衣装はModularAvatarをご利用ください.
 # 各リンク
 
 ## ツール
+ - [ VRChat Creator Companion (VCC) ](https://vcc.docs.vrchat.com/)
  - [Modular Avatar]( https://modular-avatar.nadena.dev/ja/ )
 
 ## シェーダー
