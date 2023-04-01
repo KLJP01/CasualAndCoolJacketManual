@@ -24,7 +24,7 @@ title: 商品の説明と導入方法
 
 # ポリゴン数
 ## かすたちゃん,ミーシェ
- - マフラー : △ 554
+ - マフラー : △ 554Jv
  - ジャケット : △1,660
 
 ## ラスク
@@ -37,11 +37,17 @@ title: 商品の説明と導入方法
  - ジャケット(Short Sleeve ver.) : △1,560
  - ジャケット(Long Sleeve ver.) : △1,944
 
+## 【Nbody】アクシィ(A9c)🆕✨
+## 【Nbody】デュナ(D7)🆕✨
+ - マフラー : △ 554
+ - ジャケット(Short Sleeve ver.) : △1,752
+ - ジャケット(Long Sleeve ver.) : △1,944
+
 ---
 
 # ShaderとModularAvatarに関して
 * Arktoon-Shadersの対応のサポートは完全に終了させて頂きます.
-* 現在**lilToon**に対応している衣装は**サバンナストリート レイシャークコーデ**のみです.
+* 現在**lilToon**に対応している衣装は**サバンナストリート レイシャークコーデ**と**Nbody**のみです.
 * 他のアバター対応衣装は**順次,ArktoonShaderからlilToonに変更&ModularAvatar対応**していきます.
   
 ---
@@ -62,6 +68,11 @@ title: 商品の説明と導入方法
 ### サバンナストリート レイシャークコーデ ( イリオ1.1 )( SVST02 )
 CasualAndCoolJacket_SVST02_X.x.unitypackageに入っています
 - [ サバンナストリート レイシャークコーデ ]( https://avatarchan.booth.pm/items/3964062 )
+  
+### Nbody 🆕✨
+CasualAndCoolJacket_NBody_X.x.unitypackageに入っています
+ - [ アクシィ ]( https://mutachannel.booth.pm/items/4654274 )
+ - [ デュナ ]( https://mutachannel.booth.pm/items/4654302 )
 
 ## ArktoonShader
 ### 白星アバター
@@ -116,12 +127,19 @@ ModularAvatar対応版衣装はModularAvatarをご利用ください.
 
 # 導入方法
 ## 導入方法 (ModularAvatar対応衣装の場合)
-*手順1*
+*サバンナストリート レイシャークコーデ ( イリオ1.1 )( SVST02 )の場合*
 
   1. [Modular Avatar]( https://modular-avatar.nadena.dev/ja/ )の最新版をインストールしていない場合はインストールをして下さい. 
   2. **OtherData_lilToon**内に[lilToon]( https://booth.pm/ja/items/3087170 )Shaderをインポートしてください. 
   3. "**SVST02_05_VRC_Light**"をHierachyにD&D
   4. KL_SHOP > CasualAndCoolJacket > Prefab > SVST02 内にある"**jacketSet_SVST02_MA**"を"SVST02_05_VRC_Light"に直接D&D
+
+*アクシィ・デュナ(Nbody)の場合* 🆕✨
+
+  1. [Modular Avatar]( https://modular-avatar.nadena.dev/ja/ )の最新版をインストールしていない場合はインストールをして下さい. 
+  2. **OtherData_lilToon**内に[lilToon]( https://booth.pm/ja/items/3087170 )Shaderをインポートしてください. 
+  3. "**FullSet_A9c**"又は"**FullSet_D7**"をHierachyにD&D
+  4. KL_SHOP > CasualAndCoolJacket > Prefab > A9c・D7 内にある"**jacketSet_MA**"を"SVST02_05_VRC_Light"に直接D&D
 
 - Scene等で確認すると上手く着せられているのか分かりづらいかもしれませんが,GestureManagerを利用すると確認することができます
 
@@ -141,6 +159,8 @@ ModularAvatar対応版衣装はModularAvatarをご利用ください.
 4. CustaChanのRootNode配下にある **"Hoodie","HoodleCap"を削除,または非表示** にする.BodyもFullBodyのテクスチャに変更.シェイプキーで肩など隠している場合は表示させましょう.
 5. (Auto Dresserを使わない場合) ウェアのボーンをそれぞれ,アバターの同名ボーンの中に移動させる.(指のボーンにはウェイトが乗ってないので入れ子にしなくて大丈夫です)
    (Auto Dresserを使う場合) **予め"Auto Dresser"をインポートしておいてください.** UnpackしたウェアのInspectorにて"Auto Dresser"をAdd Componentから追加します."Auto Dresser"の"Cloth HipBone"にUnpackしたウェア,"Body Object"にCustaChanをDDし,"Dressing On"で完了です.
+
+- MA対応版の場合MA用Prefabの他に通常Prefabも同梱しているので,そちらを着せ替えにご利用ください
 
 ---
 
