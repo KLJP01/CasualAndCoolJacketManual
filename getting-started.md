@@ -7,11 +7,11 @@ title: 商品の説明と導入方法
 
 ---
 
-# 1週間セール中! : Feb. 19 (Sun) - Feb. 26 (Sun) 🛍️💸
-- Full Set ver.
+# 1週間セール中! : Apr. 1 (Sat) - Apr. 8 (Sat) 🛍️💸
+- Full Set ver.🆕✨
     - Original Price: 3,500 yen
     - Sale Price: 3,000 yen
-- サバンナストリート レイシャークコーデ ver.
+- アクシィ・デュナ(Nbody) ver.🆕✨
     - Original Price: 1,600 yen
     - Sale Price: 1,300 yen
 

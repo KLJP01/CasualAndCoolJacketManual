@@ -7,3 +7,5 @@ _site/
 vendor/
 gemfile
 Gemfile.lock
+_img/
+gallery.md
