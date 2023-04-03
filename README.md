@@ -1,6 +1,6 @@
 # :dress: Casual And Cool Jacket Manual
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-brightgreen)](https://kljp01.github.io/CasualAndCoolJacketManual.github.io/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-brightgreen)](https://kljp01.github.io/CasualAndCoolJacketManual/)
 
 
 ## Team Members
