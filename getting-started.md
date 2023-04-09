@@ -11,16 +11,6 @@ lilToon版はModularAvatarを利用し,アバターにD&Dするだけで着せ�
 
 ---
 
-# 1週間セール中! : Apr. 1 (Sat) - Apr. 8 (Sat) 🛍️💸
-- Full Set ver.🆕✨
-    - Original Price: 3,500 yen
-    - Sale Price: 3,000 yen
-- アクシィ・デュナ(Nbody) ver.🆕✨
-    - Original Price: 1,600 yen
-    - Sale Price: 1,300 yen
-
----
-
 - (Arktoon ver.) Latest update and compatibility check: 2022/03/15
 - (lilToon ver.) Latest update and compatibility check: 2023/02/19
 
