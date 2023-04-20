@@ -18,7 +18,7 @@ lilToon版はModularAvatarを利用し,アバターにD&Dするだけで着せ�
 
 # ポリゴン数
 ## かすたちゃん,ミーシェ
- - マフラー : △ 554Jv
+ - マフラー : △ 554
  - ジャケット : △1,660
 
 ## ラスク
@@ -31,8 +31,8 @@ lilToon版はModularAvatarを利用し,アバターにD&Dするだけで着せ�
  - ジャケット(Short Sleeve ver.) : △1,560
  - ジャケット(Long Sleeve ver.) : △1,944
 
-## 【Nbody】アクシィ(A9c)🆕✨
-## 【Nbody】デュナ(D7)🆕✨
+## 【Nbody】アクシィ(A9c)
+## 【Nbody】デュナ(D7)
  - マフラー : △ 554
  - ジャケット(Short Sleeve ver.) : △1,752
  - ジャケット(Long Sleeve ver.) : △1,944
@@ -63,14 +63,13 @@ lilToon版はModularAvatarを利用し,アバターにD&Dするだけで着せ�
 CasualAndCoolJacket_SVST02_X.x.unitypackageに入っています
 - [ サバンナストリート レイシャークコーデ ]( https://avatarchan.booth.pm/items/3964062 )
   
-### Nbody 🆕✨
+### Nbody
 CasualAndCoolJacket_NBody_X.x.unitypackageに入っています
  - [ アクシィ ]( https://mutachannel.booth.pm/items/4654274 )
  - [ デュナ ]( https://mutachannel.booth.pm/items/4654302 )
 
-## ArktoonShader
-### 白星アバター
-CasualAndCoolJacket_CustaChan_X.x.unitypackageに入っています
+### 白星アバター 🆕✨
+CasualAndCoolJacket_hakuseiAvatars_X.x.unitypackageに入っています
 - [ レムリカ ]( https://hakusei-avatar.booth.pm/items/1323709 )
 - [ ロゼリッタ ]( https://hakusei-avatar.booth.pm/items/3186170 )
 - [ メディシアス ]( https://hakusei-avatar.booth.pm/items/1995172 )
@@ -78,7 +77,9 @@ CasualAndCoolJacket_CustaChan_X.x.unitypackageに入っています
 - [ えるるちゃん ]( https://hakusei-avatar.booth.pm/items/2486319 )
 - [ かすたちゃん ]( https://hakusei-avatar.booth.pm/items/1795010 )
 - [ 明明（ミンミン） ]( https://hakusei-avatar.booth.pm/items/3695081 )
+- [ アイシー]( https://hakusei-avatar.booth.pm/items/4483855 ) 🆕✨
 
+## ArktoonShader
 ### こまどアバター
 CasualAndCoolJacket_Rusk_X.x.unitypackageに入っています
 - あまなつ (販売終了アバター)
@@ -128,7 +129,7 @@ ModularAvatar対応版衣装はModularAvatarをご利用ください.
   3. "**SVST02_05_VRC_Light**"をHierachyにD&D
   4. KL_SHOP > CasualAndCoolJacket > Prefab > SVST02 内にある"**jacketSet_SVST02_MA**"を"SVST02_05_VRC_Light"に直接D&D
 
-*アクシィ・デュナ(Nbody)の場合* 🆕✨
+*アクシィ・デュナ(Nbody)の場合* 
 
   1. [Modular Avatar]( https://modular-avatar.nadena.dev/ja/ )の最新版をインストールしていない場合はインストールをして下さい. 
   2. **OtherData_lilToon**内に[lilToon]( https://booth.pm/ja/items/3087170 )Shaderをインポートしてください. 
